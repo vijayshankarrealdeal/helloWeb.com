@@ -1,0 +1,28 @@
+body {
+    background-image: url(../img/w.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    align-items: center;
+}
+
+.text-uppercase-fade {
+    margin: 5em 5em;
+    padding: 0 0 0 4em;
+}
+
+.btn-light {
+    border-radius: 2em;
+    margin: 2em;
+    background-color: rgba(0, 0, 0, 0.67);
+}
+
+.btn-xl {
+    padding: 1rem 2rem;
+}
+
+.btn-light:hover {
+    background-color: rgba(0, 0, 0, 0.50);
+}
